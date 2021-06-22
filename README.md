@@ -1,1 +1,2 @@
-# race
+# race on JS
+Интесив от GLO Academy
